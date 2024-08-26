@@ -1,27 +1,27 @@
 [
   {
     "phrase": "how to buy",
-    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+    "response": "To buy the product, you need to go to the channel https://discord.com/channels/1205059059510808576/1272288420215001169 and check out the available payment methods."
   },
   {
     "phrase": "how to acquire",
-    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+    "response": "To buy the product, you need to go to the channel https://discord.com/channels/1205059059510808576/1272288420215001169 and check out the available payment methods."
   },
   {
     "phrase": "how to pay",
-    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+    "response": "To buy the product, you need to go to the channel https://discord.com/channels/1205059059510808576/1272288420215001169 and check out the available payment methods."
   },
   {
     "phrase": "where to buy",
-    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+    "response": "To buy the product, you need to go to the channel https://discord.com/channels/1205059059510808576/1272288420215001169 and check out the available payment methods."
   },
   {
     "phrase": "where to pay",
-    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+    "response": "To buy the product, you need to go to the channel https://discord.com/channels/1205059059510808576/1272288420215001169 and check out the available payment methods."
   },
   {
     "phrase": "where to acquire",
-    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+    "response": "To buy the product, you need to go to the channel https://discord.com/channels/1205059059510808576/1272288420215001169 and check out the available payment methods."
   },
   {
     "phrase": "how to download",
@@ -41,19 +41,19 @@
   },
   {
     "phrase": "is it working",
-    "response": "To check if the product is working, go to the channel (link to the channel)."
+    "response": "To check if the product is working, go to the channel https://discord.com/channels/1205059059510808576/1223526762449731674."
   },
   {
     "phrase": "is it updated",
-    "response": "To check if the product is updated, go to the channel (link to the channel)."
+    "response": "To check if the product is updated, go to the channel https://discord.com/channels/1205059059510808576/1223526762449731674."
   },
   {
     "phrase": "works on",
-    "response": "To check if the product works on a specific system, go to the channel (link to the channel)."
+    "response": "To check if the product works on a specific system, go to the channel https://discord.com/channels/1205059059510808576/1223526762449731674."
   },
   {
     "phrase": "updated for",
-    "response": "To check if the product is updated for a specific system, go to the channel (link to the channel)."
+    "response": "To check if the product is updated for a specific system, go to the channel https://discord.com/channels/1205059059510808576/1223526762449731674."
   },
   {
     "phrase": "blue screen",
@@ -82,34 +82,6 @@
   {
     "phrase": "f2 didn't work",
     "response": "This is due to antivirus not being disabled.\n\nSolution:\nDisable Windows Defender\nRemove other antiviruses\nDisable anti-cheat software (Faceit, Vanguard, etc.)"
-  },
-  {
-    "phrase": "crashed",
-    "response": "How to handle crashes: https://example.com"
-  },
-  {
-    "phrase": "how to buy",
-    "response": "You can buy it on our website: https://example.com"
-  },
-  {
-    "phrase": "where to get",
-    "response": "You can find it here: https://example.com"
-  },
-  {
-    "phrase": "how to pay for it",
-    "response": "You can pay for it here: https://example.com"
-  },
-  {
-    "phrase": "where to get it",
-    "response": "You can get it here: https://example.com"
-  },
-  {
-    "phrase": "how to download",
-    "response": "You can download it here: https://example.com"
-  },
-  {
-    "phrase": "how to upload",
-    "response": "You can upload screenshots/videos using these services:\n1.\n2.\n3."
   },
   {
     "phrase": "bsod",
