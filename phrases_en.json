@@ -1,0 +1,162 @@
+[
+  {
+    "phrase": "how to buy",
+    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+  },
+  {
+    "phrase": "how to acquire",
+    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+  },
+  {
+    "phrase": "how to pay",
+    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+  },
+  {
+    "phrase": "where to buy",
+    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+  },
+  {
+    "phrase": "where to pay",
+    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+  },
+  {
+    "phrase": "where to acquire",
+    "response": "To buy the product, you need to go to the channel (link to any text channel) and check out the available payment methods."
+  },
+  {
+    "phrase": "how to download",
+    "response": "To download the product loader, type the command !loader in the chat and check your direct messages."
+  },
+  {
+    "phrase": "how to install",
+    "response": "To download the product loader, type the command !loader in the chat and check your direct messages."
+  },
+  {
+    "phrase": "where to download",
+    "response": "To download the product loader, type the command !loader in the chat and check your direct messages."
+  },
+  {
+    "phrase": "where to install",
+    "response": "To download the product loader, type the command !loader in the chat and check your direct messages."
+  },
+  {
+    "phrase": "is it working",
+    "response": "To check if the product is working, go to the channel (link to the channel)."
+  },
+  {
+    "phrase": "is it updated",
+    "response": "To check if the product is updated, go to the channel (link to the channel)."
+  },
+  {
+    "phrase": "works on",
+    "response": "To check if the product works on a specific system, go to the channel (link to the channel)."
+  },
+  {
+    "phrase": "updated for",
+    "response": "To check if the product is updated for a specific system, go to the channel (link to the channel)."
+  },
+  {
+    "phrase": "blue screen",
+    "response": "This issue is caused by third-party antivirus or an enabled kernel isolation (Windows 11). \n\nSolution:\nRemove third-party antiviruses and reboot your PC\nDisable kernel isolation\nDisable anti-cheat software (Faceit, Vanguard, etc.)"
+  },
+  {
+    "phrase": "frozen",
+    "response": "The issue is due to overlays that prevent the menu from showing up.\n\nSolution:\n\nDisable all overlays (NVIDIA, FRAPS, DISCORD, etc. — I can't know what's on your PC)\nReinstall the game from the official source if it's installed via Epic Games (no way to disable the overlay if the game is through this launcher)"
+  },
+  {
+    "phrase": "can't click",
+    "response": "The issue is due to overlays that prevent the menu from showing up.\n\nSolution:\n\nDisable all overlays (NVIDIA, FRAPS, DISCORD, etc. — I can't know what's on your PC)\nReinstall the game from the official source if it's installed via Epic Games (no way to disable the overlay if the game is through this launcher)"
+  },
+  {
+    "phrase": "nothing is happening",
+    "response": "The issue is due to overlays that prevent the menu from showing up.\n\nSolution:\n\nDisable all overlays (NVIDIA, FRAPS, DISCORD, etc. — I can't know what's on your PC)\nReinstall the game from the official source if it's installed via Epic Games (no way to disable the overlay if the game is through this launcher)"
+  },
+  {
+    "phrase": "nothing happens",
+    "response": "This is due to antivirus not being disabled.\n\nSolution:\nDisable Windows Defender\nRemove other antiviruses\nDisable anti-cheat software (Faceit, Vanguard, etc.)"
+  },
+  {
+    "phrase": "nothing happened",
+    "response": "This is due to antivirus not being disabled.\n\nSolution:\nDisable Windows Defender\nRemove other antiviruses\nDisable anti-cheat software (Faceit, Vanguard, etc.)"
+  },
+  {
+    "phrase": "f2 didn't work",
+    "response": "This is due to antivirus not being disabled.\n\nSolution:\nDisable Windows Defender\nRemove other antiviruses\nDisable anti-cheat software (Faceit, Vanguard, etc.)"
+  },
+  {
+    "phrase": "crashed",
+    "response": "How to handle crashes: https://example.com"
+  },
+  {
+    "phrase": "how to buy",
+    "response": "You can buy it on our website: https://example.com"
+  },
+  {
+    "phrase": "where to get",
+    "response": "You can find it here: https://example.com"
+  },
+  {
+    "phrase": "how to pay for it",
+    "response": "You can pay for it here: https://example.com"
+  },
+  {
+    "phrase": "where to get it",
+    "response": "You can get it here: https://example.com"
+  },
+  {
+    "phrase": "how to download",
+    "response": "You can download it here: https://example.com"
+  },
+  {
+    "phrase": "how to upload",
+    "response": "You can upload screenshots/videos using these services:\n1.\n2.\n3."
+  },
+  {
+    "phrase": "bsod",
+    "response": "This issue is caused by third-party antivirus or an enabled kernel isolation (Windows 11). \n\nSolution:\nRemove third-party antiviruses and reboot your PC\nDisable kernel isolation\nDisable anti-cheat software (Faceit, Vanguard, etc.)"
+  },
+  {
+    "phrase": "!loader",
+    "response": "To download the product loader, just type !loader in the chat and check your DMs."
+  },
+  {
+    "phrase": "crashing",
+    "response": "Solutions for crashes: https://example.com"
+  },
+  {
+    "phrase": "wanna buy",
+    "response": "To grab the product, check out the channel (link to any text channel) for payment options."
+  },
+  {
+    "phrase": "wanna get",
+    "response": "To grab the product, check out the channel (link to any text channel) for payment options."
+  },
+  {
+    "phrase": "wanna download",
+    "response": "To grab the product loader, type !loader in the chat and check your DMs."
+  },
+  {
+    "phrase": "wanna install",
+    "response": "To grab the product loader, type !loader in the chat and check your DMs."
+  },
+  {
+    "phrase": "how to get it",
+    "response": "You can get it here: https://example.com"
+  },
+  {
+    "phrase": "how to grab it",
+    "response": "You can grab it here: https://example.com"
+  },
+  {
+    "phrase": "how to pay for it",
+    "response": "You can pay for it here: https://example.com"
+  },
+  {
+    "phrase": "where to get it",
+    "response": "You can get it here: https://example.com"
+  },
+  {
+    "phrase": "how to upload",
+    "response": "You can upload screenshots/videos using these services:\n1.\n2.\n3."
+  }
+]
